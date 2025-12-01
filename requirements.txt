@@ -1,0 +1,9 @@
+# --- CORE ---
+numpy==1.26.4
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+ultralytics==8.1.34
+supervision==0.17.1
